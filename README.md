@@ -1,1 +1,1 @@
-# AngularDIO
+# AngularDIO Desafio de projeto, acompanhando passo a passo da Digital Inovation One para a griação de um site e-comerce de livros, com auxilio do bootstrap.
